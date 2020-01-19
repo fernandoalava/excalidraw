@@ -125,3 +125,10 @@ button {
 .App-right-menu {
   width: 220px;
 }
+
+/* https://github.com/microsoft/cascadia-code */
+@font-face {
+  font-family: "Cascadia";
+  src: url("https://uploads.codesandbox.io/uploads/user/7aa4e534-6525-4638-a822-17b0073167bd/z1tp-Cascadia.ttf");
+  font-display: swap;
+}
